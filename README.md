@@ -10,14 +10,14 @@
 
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Introduction](#Introduction)
+- [Features](#Features)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Model training](#Modeltraining)
+- [Results](#Results)
+- [Contributing](#Contributing)
+- [Conclusion](#Conclusion).
 
 ## Introduction
 
@@ -46,7 +46,7 @@
 -pip install matplotlib
 -pip install seaborn
 -pip install sklearn
-### usage
+### Usage
 To use the Mental-Fitness-Trackers model, follow these steps:
 1. prepare your input data in the csv format with the required features.
 2. use the trained model to make predictions on the input data.
@@ -68,6 +68,6 @@ Explain how others can contribute to your project. Include guidelines for submit
 4. Push to your fork: `git push origin feature/your-feature`.
 5. Create a pull request to the `main` branch of the original repository.
 
-## conclusion
+## Conclusion
 
 ![image](https://github.com/Sasi200/INTEL-ONE-API-Mental-Fitness-Trackers/assets/110711013/7a436ed5-6f56-4d16-9f68-3efbbdbfd5e0)
