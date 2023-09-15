@@ -3,7 +3,7 @@
 
 ##Technology Used
 
-
+![image](https://github.com/Sasi200/INTEL-ONE-API-Mental-Fitness-Trackers/assets/110711013/8b061b6d-6e5a-4a03-bc79-ac78e51b43d3)
 
 # Mental Fitness Tracker
 
